@@ -22,7 +22,7 @@ _developer · gaymer · discord kitten_
 ---
 
 ```js
-const buildMe() {
+const buildMe = {
   name: "BBQ Sauce Inc.",
   role: Developer,
   stack: [JS, React, Node, Python, Java, MongoDB],
