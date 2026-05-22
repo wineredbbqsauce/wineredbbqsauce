@@ -21,13 +21,17 @@ _developer · gaymer · discord kitten_
 
 ---
 
-```yaml
-name: BBQ Sauce Inc.
-role: Developer
-stack: [JS, React, Node, Python, Java, MongoDB]
-vibe: Interactive systems · Dark UI · Creative tech
-fuel: Sjokolade melk
-status: Building things that feel polished and intentional
+```js
+const buildMe = {
+  name: "BBQ Sauce Inc.",
+  role: Developer,
+  stack: [JS, React, Node, Python, Java, MongoDB],
+  vibe: "Interactive systems · Dark UI · Creative tech",
+  fuel: Sjokolade.melk,
+  status: "Building things that feel polished and intentional"
+}
+
+buildMe()
 ```
 
 ---
