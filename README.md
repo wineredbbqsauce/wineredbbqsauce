@@ -23,12 +23,13 @@ _developer · gaymer · discord kitten_
 
 ```js
 const buildMe = {
-  name: "BBQ Sauce Inc.",
+  name: "wineredbbqsauce",
   role: Developer,
   stack: [JS, React, Node, Python, Java, MongoDB],
   vibe: "Interactive systems · Dark UI · Creative tech",
   fuel: Sjokolade.melk,
-  status: "Building things that feel polished and intentional"
+  status: "Building things that feel polished and intentional",
+  site: "justaleks.no"
 }
 
 buildMe()
